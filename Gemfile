@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.6.0'
+ruby '4.0.9'
 
 # built for Heroku-18
 
